@@ -1,6 +1,8 @@
 # Reminder-WebApp
 
-to start application run npm dev
+to start application
+1.run npm install
+2.run npm dev
 
 
 
