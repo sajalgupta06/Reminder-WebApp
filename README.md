@@ -1,4 +1,9 @@
 # Reminder-WebApp
+
+to start application run npm dev
+
+
+
 Ans1. I have scheduled the email with with help of library node-schedule,and i have used sendgrid email service api to send emails.
 
 Ans2. I have used mongodb database because i found it easy to use.
